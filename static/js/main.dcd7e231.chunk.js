@@ -1,2 +1,0 @@
-(this["webpackJsonpdeploy-github"]=this["webpackJsonpdeploy-github"]||[]).push([[0],{16:function(e,t,n){},23:function(e,t,n){"use strict";n.r(t);n(0);var c=n(9),s=n.n(c),i=n(11),o=(n(16),n(3));var r=function(){return Object(o.jsx)(i.a,{children:Object(o.jsx)("div",{className:"App",children:"hello"})})};s.a.render(Object(o.jsx)(r,{}),document.getElementById("root"))}},[[23,1,2]]]);
-//# sourceMappingURL=main.dcd7e231.chunk.js.map

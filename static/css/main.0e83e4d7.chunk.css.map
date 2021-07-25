@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACI,QAAS,CACT,SACJ,CAEA,KACE,UAAW,CACX,YAAa,CACb,wBACF","file":"main.0e83e4d7.chunk.css","sourcesContent":["*{\n    margin: 0;\n    padding: 0;\n}\n\n.App {\n  width: 100%;\n  height: 100vh;\n  background-color: rgb(138, 150, 223);\n}"]}
