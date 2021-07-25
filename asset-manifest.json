@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/nguyenvanlinh-cv/static/css/main.20d7c4cc.chunk.css",
-    "main.js": "/nguyenvanlinh-cv/static/js/main.55d77d85.chunk.js",
-    "main.js.map": "/nguyenvanlinh-cv/static/js/main.55d77d85.chunk.js.map",
+    "main.js": "/nguyenvanlinh-cv/static/js/main.a07faaaa.chunk.js",
+    "main.js.map": "/nguyenvanlinh-cv/static/js/main.a07faaaa.chunk.js.map",
     "runtime-main.js": "/nguyenvanlinh-cv/static/js/runtime-main.2938eb41.js",
     "runtime-main.js.map": "/nguyenvanlinh-cv/static/js/runtime-main.2938eb41.js.map",
-    "static/js/2.67062897.chunk.js": "/nguyenvanlinh-cv/static/js/2.67062897.chunk.js",
-    "static/js/2.67062897.chunk.js.map": "/nguyenvanlinh-cv/static/js/2.67062897.chunk.js.map",
+    "static/js/2.65c5304a.chunk.js": "/nguyenvanlinh-cv/static/js/2.65c5304a.chunk.js",
+    "static/js/2.65c5304a.chunk.js.map": "/nguyenvanlinh-cv/static/js/2.65c5304a.chunk.js.map",
     "index.html": "/nguyenvanlinh-cv/index.html",
     "static/css/main.20d7c4cc.chunk.css.map": "/nguyenvanlinh-cv/static/css/main.20d7c4cc.chunk.css.map",
-    "static/js/2.67062897.chunk.js.LICENSE.txt": "/nguyenvanlinh-cv/static/js/2.67062897.chunk.js.LICENSE.txt"
+    "static/js/2.65c5304a.chunk.js.LICENSE.txt": "/nguyenvanlinh-cv/static/js/2.65c5304a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2938eb41.js",
-    "static/js/2.67062897.chunk.js",
+    "static/js/2.65c5304a.chunk.js",
     "static/css/main.20d7c4cc.chunk.css",
-    "static/js/main.55d77d85.chunk.js"
+    "static/js/main.a07faaaa.chunk.js"
   ]
 }
